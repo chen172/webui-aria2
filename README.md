@@ -10,7 +10,7 @@ Very simple to use, no build scripts, no installation scripts. First start aria2
 aria2c --enable-rpc --rpc-listen-all
 ```
 
-If aria2 is not installed in your local machine then head on to https://aria2.github.io/ and follow the instructions there.
+If aria2 is not installed in your local machine then head on to https://chen172.github.io/webui-aria2/ and follow the instructions there.
 
 Then to use the WebUI-Aria2,
 
