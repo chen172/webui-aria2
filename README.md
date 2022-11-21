@@ -6,8 +6,14 @@ The aim for this project is to create the worlds best and hottest interface to i
 
 Very simple to use, no build scripts, no installation scripts. First start aria2 in the background either in your local machine or in a remote one. You can do that as follows:
 
+## linux
 ```bash
 aria2c --enable-rpc --rpc-listen-all
+```
+
+## windows
+```bash
+ .\aria2c.exe --conf-path=.\aria2.conf --enable-rpc --rpc-listen-all
 ```
 
 If aria2 is not installed in your local machine then head on to https://chen172.github.io/webui-aria2/ and follow the instructions there.
