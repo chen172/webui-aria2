@@ -12,6 +12,12 @@ aria2c --enable-rpc --rpc-listen-all
 ```
 
 ## windows
+### conf
+https://github.com/P3TERX/aria2.conf/blob/master/aria2.conf
+
+### dht
+https://github.com/P3TERX/aria2.conf/blob/master/dht.dat
+
 ```bash
  .\aria2c.exe --conf-path=.\aria2.conf --enable-rpc --rpc-listen-all
 ```
